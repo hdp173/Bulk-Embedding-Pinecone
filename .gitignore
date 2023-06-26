@@ -1,0 +1,6 @@
+/.venv
+/.vscode
+/pdfs
+.env
+*.pdf
+*.csv
